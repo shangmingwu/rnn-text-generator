@@ -7,33 +7,48 @@ In this repository you'll find a notebook and some data about my explorations wi
 Shakespeare has a relatively large body of writing available, all of it in the public domain: thus, this makes his work an attractive source of data to train an RNN. Here is an example with 20 epochs of training:
 
 ```
-ROMEO: God sound Lord Marshal.
+ROMEO: Did use thee fair?
 
-DUKE OF AUMERLE:
-My husband-hardy hearing then Aufidius takes her breast,
-Hich the daunt close thy joints forth the hornsome together
-To open the fairies: and these's mercy do I;
-Stand up, set down, and Tunis, God forbid!
-Worst thou, unlawful business in our country,
-See the punish here and the best royalty
-We have look'd for any language. I did buy,
-deficerance we arroub gen to command's; but to
-come aqua then my power to grows would bear my country's kind!
-Such a pupset and to do me what thou art a
-parent. And you in vail to you,
-Is it both thee: when we patch this crown to-night
-And soon my soul fled by one lighten'd backs,
-Send for your beauty-pirce with rue lies hard,
-When I am king for restories.
-Look you think, that he shall swear, anon,
-Cuth gone, this time came from her death: therefore, great Rosaline.
+BENVOLIO:
+Do count us grand it: but 'tis well:
+In truth, sir; but the common rack with oath!
+Tendering me to the garteous labour.
 
-Roman:
-An; if a worder from the Duke of Buckingham?
+WARWICK:
+I I last to-day, the vanity and double on
+the human car above that gamps about,
+And were her lips, how he not heard
+The gamporr's maintily woo'd amazed: the unacowned silence
+Upon their very house; thou hast
+Wasted to thyself, but so defend thee.
 
-LADY GREY:
-'Twixt yourself and your behavior and oder,
-Those thinks the leasiun thus uppedienced.
+CLIFFORD:
+Come, couna with me well, and both be so long,
+'Waving their fortune's to that Bolingbroke
+Hath throw'd to harve thee as we do.
+
+POMPEY:
+Plentague, my lord; and weep you plain, I would know
+
+KING RICHARD III:
+Look on her! not a warning sense.
+
+TRANIO:
+Now is the Vincentio.
+
+BAPTISTA:
+And I could wish I do welcome for it.
+
+JULIET:
+Hath been God's knigns; we are comforter, no more;
+Amen, amaz, to put Both obedient heir
+A hope to give against yourself in thing,
+And most cheer to the Tarquis rinisher.
+
+GLOUCESTER:
+At that may be!
+Be as this own vassal hands, will you seek to
+do.
 ```
 
 Sentences often aren't grammatical and made-up words pop up frequently, but the RNN has learned the script structure of Shakespeare's writing well.
